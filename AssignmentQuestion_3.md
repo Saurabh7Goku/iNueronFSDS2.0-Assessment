@@ -7,17 +7,17 @@ Question 1.  Come up with an elaborate Goal setting plan with getting a job as a
 
 Short Term Goals:
 - 1st Starting With Programming:	   
-	1> Start with basic programming and build the mind set to solve programming and pattern questions which build the brain to function more logically.
+	- 1> Start with basic programming and build the mind set to solve programming and pattern questions which build the brain to function more logically.
     
-	2> For the programming i prefer java Script and Python, as both are well used and versatile in the industries.     
+	- 2> For the programming i prefer java Script and Python, as both are well used and versatile in the industries.     
 
- 	3> For the Starter learn NumPy, Pandas, Matplot, Seaborn for mathematically operation where numpy helps, in handling data and file operation pandas is usefull and for visualization Matplot and Seaborn.     
+ 	- 3> For the Starter learn NumPy, Pandas, Matplot, Seaborn for mathematically operation where numpy helps, in handling data and file operation pandas is usefull and for visualization Matplot and Seaborn.     
 
 - 2nd Start with visualization of data:
   
-	1> For this either learn Power Bi or tableau.
+	- 1> For this either learn Power Bi or tableau.
 
-  	2> Learn Excel
+  	- 2> Learn Excel
 
 - 3rd Starting with Machine Learning:     
 	- 1> Gain a solid understanding of linear algebra, calculus, and probability theory.
