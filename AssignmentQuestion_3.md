@@ -1,7 +1,7 @@
-## Assignment No.3 (Soft Skills)
+# Assignment No.3 (Soft Skills)
 
 
-### Question 1.  Come up with an elaborate Goal setting plan with getting a job as an objective. The role has to be relevant to the course that you are currently pursuing.
+## `Question 1`.  Come up with an elaborate Goal setting plan with getting a job as an objective. The role has to be relevant to the course that you are currently pursuing.
 
 => `Setting a Goal, For My Case it's FSDS which typically means Full Stack Data Science.`     
 - Now The Goal is splitted into two parts a long term goal and a short term goal.     
@@ -111,7 +111,7 @@
                          
 
 
-### Question 2. Develop a daily schedule based on the template discussed in the class and adhere to it.
+## `Question 2`. Develop a daily schedule based on the template discussed in the class and adhere to it.
 
 **Daily  Schedule Plan**:
 
@@ -142,13 +142,13 @@
 
 `Review and Revision`:      
 - 8:00 PM - 9:30 PM: Review the concepts, techniques, and code you've learned and practiced throughout the day. Identify any gaps in your understanding and clarify doubts.       
-- 9:30 PM - 10:00 PM: Wind down, relax, and engage in activities unrelated to data science to maintain a work-life balance, playing games like Chess, Football etc.      
+- 9:30 PM - 10:00 PM: Wind down, relax, and engage in activities unrelated to data science to maintain a work-life balance, playing games like Chess, Football etc.
+  
 
-
-### Question 3. Generate a schematic stress management plan by including various aspects of stress management discussed in the session.   
+## `Question 3`. Generate a schematic stress management plan by including various aspects of stress management discussed in the session.   
 
 - `Identify Stress Triggers`:      
-	-Recognize and understand the specific situations, events, or factors that trigger stress in your life. This could include work deadlines, relationship issues, financial pressures, or health concerns.
+	- Recognize and understand the specific situations, events, or factors that trigger stress in your life. This could include work deadlines, relationship issues, financial pressures, or health concerns.
 
 - `Practice Self-Awareness`:     
 	- Develop self-awareness to recognize the signs and symptoms of stress in your body and mind. This could include increased heart rate, muscle tension, irritability, difficulty concentrating, or changes in sleep patterns. 
